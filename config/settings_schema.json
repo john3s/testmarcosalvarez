@@ -1414,6 +1414,15 @@
     ]
   },
   {
+    "name": "tes settings",
+    "settings": [
+      {
+        "type": "url",
+        "id": "testbar"
+      }
+    ]
+  },
+  {
     "name": "t:settings_schema.cart.name",
     "settings": [
       {
